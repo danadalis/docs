@@ -18,6 +18,9 @@
       "to": "#9563FF"
     }
   },
+  "openapi":[
+    "/streetlights-kafka.yml"
+  ],
   "topbarLinks": [
     {
       "name": "Support",
